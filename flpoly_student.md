@@ -26,6 +26,8 @@ I am _passionate about_:
 
 ***
 
+# Images
+
 Here's a local image: 
 
 ![](dataNetwork.jpg)
@@ -33,5 +35,15 @@ Here's a local image:
 Here's a image from the web: 
 
 ![Florida Poly IST](https://floridapoly.edu/news/articles/2021/06/assets/060821-applicationsincrease.jpg)
+
+# Tables
+
+Below is a sample table:
+
+|   Tool Name   |       Used for                 |
+|:--------------|-------------------------------:|
+|  R            | Data wrangling, data viz, stats|
+|  Python       | Data modeling, deploying apps  |
+|  Git          | Version Control                |
 
 > Last modified: 2022/01/25
