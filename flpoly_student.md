@@ -1,27 +1,37 @@
-## First Name Last Name
+## Donavan Dodson
 
-### Term Year 
+### SPRING 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Entrepreneurial Opportunity Analysis
 
-- Course 2
+- International & Comparative Dimensions of Business
 
-- Course 3
+- Introduction to Data Science
 
-- Course 4
+- Law, Public Policy, Negotiation, and Business
+
+- Operations Research
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Art
 
-- Thing 2
+- Video Games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- My dad's Haunted House business as shown in this website <https://www.ominousdescent.com>
 
 ***
 
-> Last modified: YYYY/MM/DD
+Here's a local image: 
+
+![](dataNetwork.jpg)
+
+Here's a image from the web: 
+
+![Florida Poly IST](https://floridapoly.edu/news/articles/2021/06/assets/060821-applicationsincrease.jpg)
+
+> Last modified: 2022/01/25
